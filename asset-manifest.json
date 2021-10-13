@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TextZen-ReactApp/static/css/main.9a1e1835.chunk.css",
+    "main.js": "/TextZen-ReactApp/static/js/main.788068da.chunk.js",
+    "main.js.map": "/TextZen-ReactApp/static/js/main.788068da.chunk.js.map",
+    "runtime-main.js": "/TextZen-ReactApp/static/js/runtime-main.32fba76a.js",
+    "runtime-main.js.map": "/TextZen-ReactApp/static/js/runtime-main.32fba76a.js.map",
+    "static/js/2.595bf44a.chunk.js": "/TextZen-ReactApp/static/js/2.595bf44a.chunk.js",
+    "static/js/2.595bf44a.chunk.js.map": "/TextZen-ReactApp/static/js/2.595bf44a.chunk.js.map",
+    "static/js/3.33248c0b.chunk.js": "/TextZen-ReactApp/static/js/3.33248c0b.chunk.js",
+    "static/js/3.33248c0b.chunk.js.map": "/TextZen-ReactApp/static/js/3.33248c0b.chunk.js.map",
+    "index.html": "/TextZen-ReactApp/index.html",
+    "static/css/main.9a1e1835.chunk.css.map": "/TextZen-ReactApp/static/css/main.9a1e1835.chunk.css.map",
+    "static/js/2.595bf44a.chunk.js.LICENSE.txt": "/TextZen-ReactApp/static/js/2.595bf44a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32fba76a.js",
+    "static/js/2.595bf44a.chunk.js",
+    "static/css/main.9a1e1835.chunk.css",
+    "static/js/main.788068da.chunk.js"
+  ]
+}
